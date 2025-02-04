@@ -1,7 +1,7 @@
 {
   "appRedirect": {
     "status": true,
-    "redirectURL": "#"
+    "redirectURL": "https://github.com/"
   },
 
   "AdsController": {
